@@ -1,0 +1,9 @@
+build/
+.DS_Store
+*.xcuserstate
+__pycache__/
+# Signing keys belong in Keychain or a secure backup, never source control.
+*.p12
+*.p8
+*.pem
+*.key
